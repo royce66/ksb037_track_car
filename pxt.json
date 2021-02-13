@@ -1,0 +1,24 @@
+{
+    "name": "KSB037_TRACK_CAR",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.4",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.2",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
